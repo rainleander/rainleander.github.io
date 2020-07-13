@@ -1,6 +1,6 @@
 # Rain Leander
-## User Manual
-### Dancing Engineer Fierce Creature
+## Dancing Engineer Fierce Creature
+### User Manual
 
 * My core principles are to embrace radical transparency and fail often.
 * My core values are compassion, honesty, and open-mindedness.
