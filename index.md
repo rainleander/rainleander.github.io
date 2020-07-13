@@ -1,6 +1,6 @@
-# Rain Leander
-## Dancing Engineer Fierce Creature
-### User Manual
+# Groningen Rain
+## Dancing Engineer. Fierce Creature.
+### Rain Leander User Manual
 
 * My core principles are to embrace radical transparency and fail often.
 * My core values are compassion, honesty, and open-mindedness.
