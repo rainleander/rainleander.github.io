@@ -1,5 +1,5 @@
-# User Manual
-## Rain Leander
+# Rain Leander
+## User Manual
 ### Dancing Engineer Fierce Creature
 
 * My core principles are to embrace radical transparency and fail often.
