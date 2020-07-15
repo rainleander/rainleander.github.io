@@ -1,8 +1,8 @@
 theme: jekyll-theme-minimal
 
-title: GroningenRain.nlEX # The title of your website, as you want it to appear in the header of the webpage.
+title: RainLeander.GitHub.io # The title of your website, as you want it to appear in the header of the webpage.
 email: rainsdance [at] gmail [dot] com # Your email address.
 description: Dancing Engineer. Fierce Creature. A GroningenRain.nl Experiment
-baseurl: https://rainleander.github.io/
+baseurl: /
 twitter_username: rainleander
 github_username: rainleander
