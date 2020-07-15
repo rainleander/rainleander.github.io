@@ -1,3 +1,7 @@
+layout: about
+title: "About RainLeander.GitHub.io"
+permalink: /about/
+
 # About RainLeander.GitHub.io
 ## A History of Sorts
 ### Cause WhyNot
