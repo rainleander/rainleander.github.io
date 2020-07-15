@@ -4,5 +4,6 @@ title: RainLeander.GitHub.io # The title of your website, as you want it to appe
 email: rainsdance [at] gmail [dot] com # Your email address.
 description: A GroningenRain.nl Experiment
 baseurl: /
+markdown: kramdown
 twitter_username: rainleander
 github_username: rainleander
