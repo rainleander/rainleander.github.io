@@ -28,7 +28,7 @@ twitter_username: rainleander
 github_username:  rainleander
 
 # Build settings
-theme: minima
+theme: jekyll-theme-minimal
 plugins:
   - jekyll-feed
 
