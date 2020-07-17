@@ -4,15 +4,17 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+# About RainLeander.GitHub.io
+## A History of Sorts
+### Cause WhyNot
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+<p>This started out as a frustrating experiment born out of when GroningenRain.nl was hacked two years ago. I wanted somewhere that I could set up as a back up of that site and also to learn a new technology and also to distract my brain from the spiraling depression and anxiety born of an overwhelming helplessness.</p>
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+<p>And then I completely forgot about it.</p>
 
+<p>And now I'm back.</p>
 
-[jekyll-organization]: https://github.com/jekyll
+<p>I don't know what this is anymore, although I do like hacking on it so I'll keep at it for a bit longer.</p>
+
+<p>Let's see how it evolves, eh?</p>
+
