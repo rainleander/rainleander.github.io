@@ -5,9 +5,6 @@
 layout: home
 ---
 
-## Dancing Engineer. Fierce Creature.
-### Rain Leander User Manual
-
 * My core principles are to embrace radical transparency and fail often.
 * My core values are compassion, honesty, and open-mindedness.
 * I identify as non-binary; my pronouns are they / them.
