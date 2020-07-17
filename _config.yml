@@ -28,7 +28,7 @@ twitter_username: rainleander
 github_username:  rainleander
 
 logo: /assets/img/logo.jpg
-show_downloads: "true"
+show_downloads: "false"
 google_analytics: UA-172965189-1
 
 # Build settings
