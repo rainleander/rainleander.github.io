@@ -27,6 +27,10 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: rainleander
 github_username:  rainleander
 
+logo: http://groningenrain.nl/wp-content/uploads/2020/07/logo.jpg
+show_downloads: "true"
+google_analytics: UA-172965189-1
+
 # Build settings
 remote_theme: jekyll-theme-minimal
 plugins:
