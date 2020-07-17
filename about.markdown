@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 # About RainLeander.GitHub.io
-## A History of Sorts
+## A User Manual of Sorts
 ### Cause WhyNot
 
 * My core principles are to embrace radical transparency and fail often.
