@@ -5,7 +5,7 @@
 layout: home
 ---
 
-<p>This started out as a frustrating experiment born out of when GroningenRain.nl was hacked two years ago. I wanted somewhere that I could set up as a back up of that site and also to learn a new technology and also to distract my brain from the spiraling depression and anxiety born of an overwhelming helplessness.</p>
+<p>This started out as a frustrating experiment born out of when <a href="http://groningenrain.nl">GroningenRain.nl</a> was hacked two years ago. I wanted somewhere that I could set up as a back up of that site and also to learn a new technology and also to distract my brain from the spiraling depression and anxiety born of an overwhelming helplessness.</p>
 
 <p>And then I completely forgot about it.</p>
 
