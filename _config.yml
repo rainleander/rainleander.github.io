@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: GroningenRain.GitHub.io
+title: RainLeander.GitHub.io
 email: rainleander [at] gmail [dot] com
 description: >- # this means to ignore newlines until "baseurl:"
   A GroningenRain.nl Experiment
