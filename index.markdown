@@ -5,7 +5,6 @@
 layout: home
 ---
 
-# Groningen Rain
 ## Dancing Engineer. Fierce Creature.
 ### Rain Leander User Manual
 
