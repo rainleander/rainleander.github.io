@@ -32,7 +32,7 @@ show_downloads: false
 google_analytics: UA-172965189-1
 
 # Build settings
-remote_theme: jekyll-theme-minimal
+remote_theme: minima
 plugins:
   - jekyll-feed
 
