@@ -3,7 +3,9 @@ layout: post
 title: "Blog Post Test"
 permalink: /2020-14-07-blog-post-test/
 date: 2020-07-14 16:40:00 +0200
+author: rain
 categories: experiment
+tags: test
 ---
 [Bacon ipsum](https://baconipsum.com/) dolor amet short ribs kevin corned beef tri-tip capicola meatball, boudin landjaeger leberkas porchetta ham hock. Picanha salami turducken short ribs spare ribs corned beef. Burgdoggen drumstick beef hamburger picanha. Hamburger prosciutto pork frankfurter ribeye. Sausage pastrami filet mignon pork chop strip steak chicken boudin meatloaf. Short ribs shank ribeye, buffalo pork loin turkey chislic pork jerky pork chop ground round.
 
