@@ -7,7 +7,7 @@
 
 ## Target Audience
 
-<p>You. Are you here? You are the target audience.</p>
+<p>You. Are you here? YOU are the target audience.</p>
 
 ## Resources
 
