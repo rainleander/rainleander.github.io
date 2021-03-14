@@ -16,4 +16,4 @@ https://www.linkedin.com/in/rainleander/<br>
 https://twitter.com/rainleander<br>
 https://instagram.com/krainleander<br>
 https://www.twitch.tv/rainleander<br>
-https://www.youtube.com/channel/UCs4OeYtPTy-PkZmPEceEsdw/</p>
+https://www.youtube.com/rainleander</p>
