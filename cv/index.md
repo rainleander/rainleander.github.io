@@ -1,14 +1,16 @@
 RainLeander [at] gmail [dot] com<br>
-Calendly: Calendly.com/RainLeander<br>
-LinkedIn: LinkedIn.com/in/RainLeander<br>
-GitHub: GitHub.com/RainLeander<br><br>
+Calendly: [Calendly.com/RainLeander](https://calendly.com/rainleander)<br>
+LinkedIn: [LinkedIn.com/in/RainLeander](https://www.linkedin.com/in/rainleander/)<br>
+GitHub: [GitHub.com/RainLeander](https://github.com/rainleander)<br><br>
 
-YouTube: YouTube.com/RainLeander<br>
-Twitch: Twitch.tv/RainLeander<br><br>
+YouTube: [YouTube.com/RainLeander](http://youtube.com/rainleander)<br>
+Twitch: [Twitch.tv/RainLeander](http://twitch.tv/rainleander)<br><br>
 
-Twitter: Twitter.com/RainLeander<br>
-Instagram: Instagram.com/kRainLeander<br>
-Facebook: FaceBook.com/RainLeander
+Twitter: [Twitter.com/RainLeander](https://twitter.com/rainleander)<br>
+Instagram: [Instagram.com/kRainLeander](https://www.instagram.com/krainleander/)<br>
+Facebook: [FaceBook.com/RainLeander](http://facebook.com/rainleander)
+
+**[Downloadable PDF Version](RainLeanderResumeMarch2021.pdf)**
 
 # Curriculum Vitae
 Rain is a systematic, creative, interdisciplinary community liaison with a Bachelor’s in dance and a Master’s in IT. An epic public speaker, they have disappeared within a box stuffed with swords, created life, and gone skydiving with the Queen. Yes, really. Rain is an active technical contributor with Tinkerbell, RDO, Fedora Project, OpenStack, TripleO, and DjangoGirls. 
