@@ -9,9 +9,10 @@
 
 <p>You. Are you here? YOU are the target audience.</p>
 
-## Resources
+## Links
 
-<p>http://groningenrain.nl/<br>
+<p>https://therain.dev/<br>
+http://groningenrain.nl/<br>
 https://www.linkedin.com/in/rainleander/<br>
 https://twitter.com/rainleander<br>
 https://instagram.com/krainleander<br>
