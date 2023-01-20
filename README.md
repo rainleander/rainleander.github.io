@@ -12,7 +12,6 @@
 ## Links
 
 <p>https://therain.dev/<br>
-http://groningenrain.nl/<br>
 https://www.linkedin.com/in/rainleander/<br>
 https://twitter.com/rainleander<br>
 https://instagram.com/krainleander<br>
