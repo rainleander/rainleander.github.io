@@ -8,12 +8,3 @@
 ## Target Audience
 
 <p>You. Are you here? YOU are the target audience.</p>
-
-## Links
-
-<p>https://therain.dev/<br>
-https://www.linkedin.com/in/rainleander/<br>
-https://twitter.com/rainleander<br>
-https://instagram.com/krainleander<br>
-https://www.twitch.tv/rainleander<br>
-https://www.youtube.com/rainleander</p>
